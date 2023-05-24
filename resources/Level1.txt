@@ -1,0 +1,91 @@
+1
+2
+south, s
+Penistone
+Hello, it's Andy. Nothing exciting happens here so I suggest you turn around and go back to where you came from.
+beer
+resources/penistone.jpg
+1
+4
+south, s
+the basement
+You have entered the basement. You might think your night is nearly over but there is plenty left to come, sleep will have to wait. Help yourself to a martini or 6.
+martini
+resources/basement.png
+2
+2
+north, south, n, s
+Sherwood
+Robin Hood and his band of merry men are in the woods, don't worry they won't steal from you. Continue your journey.
+rock
+resources/robin-hood.jpg
+2
+4
+north, south, n, s
+the Botanical Gardens
+Chill out on the grass and have a nice healthy snack, maybe from a fruit tree.
+fruit
+resources/garden.jpg
+3
+2
+north, south, east, n, s, e
+Abbeydale
+Don't forget any sporting equipment you might need.
+lacrosse-stick
+resources/lacrosse.png
+3
+3
+south, east, west, s, e, w
+the supermarket
+You might want to stock up for your journey.
+supplies
+resources/supermarket.png
+3
+4
+north, south, east, west, n, s, e, w
+ресторан
+Fancy an Italian takeaway with a Ukrainian twist.
+pizza
+resources/pizza.jpg
+3
+5
+north, south, west, n, s, w
+the airport
+Welcome to the airport. You have almost finished level 1. Be sure that you have your rucksack and passport to continue your adventure in the big wide world.
+nothing
+resources/airplane.jpg
+4
+2
+north, east, n, e
+the Northern General
+Oops, you're back here again. Hopefully you're on the mend soon.
+nothing
+resources/hospital.jpg
+4
+3
+north, south, east, west, n, s, e, w
+Sheffield
+Welcome to Sheffield, let the adventure begin, or continue.
+nothing
+resources/crucible.jpg
+4
+4
+north, east, west, n, e, w
+Lady Cannings
+While foraging in the woods you become unable to resist the strange hypnotic draw of a mushroom. Eat it and see what adventure you go on.
+mushroom
+resources/tree.png
+4
+5
+north, west, n, w
+Passport office
+It's quite obvious what you might find here ...
+passport
+resources/passport.jpg
+5
+3
+north, n
+Nether Edge
+Your friendly scrum master might be able to help with some of your lost belongings. Why don't you see what you can pickup.
+rucksack
+resources/rucksack.jpg

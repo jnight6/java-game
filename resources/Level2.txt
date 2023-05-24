@@ -1,0 +1,119 @@
+1
+2
+south, east, s, e
+Thailand
+Welcome to sunny Thailand. You'd like to learn to SCUBA dive but let's be honest that's not a good idea! Want to try snorkelling instead?
+snorkel
+resources/dive.jpg
+1
+3
+south, east, west, s, e, w
+India
+In a local market you find some exotic local delicacies. Would you like to try?
+fruit
+resources/india.png
+1
+4
+east, west, e, w
+the Monkey Temple - Kathmandu
+You take a little nap on the temple steps and unfortunately the monkeys steal your passport.
+nothing
+resources/monkey.jpg
+1
+5
+south, west, s, w
+North Korea
+You are on good behaviour and do not cause any diplomatic incidents, well done. Move on quickly before you do.
+supplies
+resources/korea.jpg
+2
+2
+north, east, n, e
+the Netherlands
+You meet Drew and he offers you his bike. Would you like to borrow it?
+bicycle
+resources/bike.jpg
+2
+3
+north, south,  west, s, w, n
+France
+Fancy a croissant?
+croissant
+resources/france.jpg
+2
+5
+north, east, south, n, s, e
+Australia
+You meet a Kangaroo on your travels. Your kickboxing skills aren't great, you lose some energy but survive. An adorable injured spider comes to say hello. Pick him up so you have a friend for the rest of your travels.
+spider
+resources/aus.png
+2
+6
+west, w
+Madagascar
+You're hungry, would you like to an egg or a kumquat?
+kumquat
+resources/mad.jpg
+3
+3
+north, east, south, n, s, e
+the Czech Republic
+You come across a beer festival ...
+beer
+resources/czech.jpg
+3
+4
+west, east, w, e
+Ukraine
+Тобі треба перемогти всесвітнє зло Мордору. Залізай у винищувач і підпали Москву. You must defeat the universal evil of Mordor. Get into a fighter jet and set Moscow on fire.
+jet
+resources/ukraine.png
+3
+5
+north, south, west, n, s, w
+Georgia
+The food here is great, try some.
+khinkali
+resources/khinkali.jpg
+4
+2
+east, south, s, e
+Spain
+You happen across a small bodega. You learn flamenco and dance all night with a glass of moonshine in hand. Keep drinking moonshine and see what happens next?
+moonshine
+resources/spain.jpg
+4
+3
+north, west, n, w
+the Alps
+Do you want to pickup your skis?
+skis
+resources/alps.png
+4
+5
+east, north, n, e
+Peru
+Trek to Machu Picchu.
+water
+resources/peru.jpeg
+4
+6
+south, west, s, w
+California
+Congratulations!! You win your lacrosse match and your reward is a trip to the Kennedy Space Center. Move south to continue.
+pizza
+resources/california.jpg
+5
+2
+north, n
+Egypt
+You try to fit the Pyramids in the British Museum. Thankfully you don't succeed so no jail time for you, you just lose some energy.
+nothing
+resources/egypt.jpg
+5
+6
+north, n
+the Kennedy Space Center
+Congratulations!! You've reached the end of level 2. Fly away to the final frontier.
+nothing
+resources/nasa.png
